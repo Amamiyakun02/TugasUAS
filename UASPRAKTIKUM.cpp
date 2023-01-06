@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 #include <fstream>
 
 using namespace std;
@@ -135,8 +134,6 @@ int main(){
         goto back;
     }
     cout << endl << endl;
-    int a = max(value);
-    int b = min(value);
 
     char q;
     
