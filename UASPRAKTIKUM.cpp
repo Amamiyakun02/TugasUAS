@@ -2,8 +2,6 @@
 #include <fstream>
 
 using namespace std;
-fstream file;
-void print(int arr[],int x){}
 
 int total(int arr[][4]){
     int total;
