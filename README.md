@@ -1,0 +1,2 @@
+ETTOOO
+pake aja bebas
